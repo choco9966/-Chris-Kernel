@@ -1,2 +1,2 @@
-# -Chris-Kernel
+# Chris-Kernel
 크리스가 진행한 모든 대회의 흔적을 쫏아가는 프로젝트입니다. 
